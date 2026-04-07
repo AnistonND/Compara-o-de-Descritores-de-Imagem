@@ -1,9 +1,9 @@
 # Comparação de Descritores de Imagem: SIFT, ORB e HOG
 
 Este projeto tem como objetivo implementar e analisar o desempenho de três importantes algoritmos de extração de características de imagem: 
-"SIFT" (Scale-Invariant Feature Transform) 
-"ORB" (Oriented FAST and Rotated BRIEF)  
-"HOG" (Histogram of Oriented Gradients). 
+**SIFT** (Scale-Invariant Feature Transform) 
+**ORB** (Oriented FAST and Rotated BRIEF)  
+**HOG** (Histogram of Oriented Gradients). 
 A aplicação foi desenvolvida em Python, utilizando a biblioteca OpenCV, e aplicada a uma imagem de uma placa de trânsito.
 
 🎯 Objetivo
