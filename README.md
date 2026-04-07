@@ -1,0 +1,1 @@
+# Compara-o-de-Descritores-de-Imagem
