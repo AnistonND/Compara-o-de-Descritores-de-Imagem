@@ -1,5 +1,3 @@
-# Comparação de Descritores de Imagem
-
 # Comparação de Descritores de Imagem: SIFT, ORB e HOG
 
 Este projeto tem como objetivo implementar e analisar o desempenho de três importantes algoritmos de extração de características de imagem: 
