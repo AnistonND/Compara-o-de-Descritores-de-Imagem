@@ -27,4 +27,5 @@ O objetivo principal é comparar os três descritores em termos de:
 *   **Características**: Descritor baseado em gradientes de orientação, muito utilizado para detecção de objetos. Não detecta keypoints, mas sim gera um vetor de características da imagem inteira.
 *   **Aplicação**: Amplamente utilizado em detectores de pedestres, veículos e outros objetos rígidos.
 
+   Desenvolvido por Aniston – rochaaniston@gmail.com.com
 
